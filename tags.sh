@@ -1,5 +1,5 @@
-# gnerate tags for php project
-# adapted from
+# generate tags for php project
+# originally from
 # http://www.mwop.net/blog/134-exuberant-ctags-with-PHP-in-Vim.html
 
 ctags-exuberant -f tags \
